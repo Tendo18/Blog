@@ -1,6 +1,6 @@
 # A Blog API
 
-A Blog API with CRUD functionality in Python allows users to create, read, update, and delete blog posts via API endpoints.
+A Blog API with CRUD functionality which allows users to create, read, update, and delete blog posts via API endpoints.
 
 ## End points.
 
