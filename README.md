@@ -1,6 +1,6 @@
 # A Blog API
 
-A Blog API with CRUD functionality which allows users to create, read, update, and delete blog posts via API endpoints.
+A Blog API allows users to create, read, update, and delete (CRUD) blog posts while enforcing permissions to restrict access based on user roles. 
 
 ## End points.
 
